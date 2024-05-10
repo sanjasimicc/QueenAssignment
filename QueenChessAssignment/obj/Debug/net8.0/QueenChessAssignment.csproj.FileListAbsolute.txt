@@ -1,0 +1,14 @@
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/bin/Debug/net8.0/QueenChessAssignment
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/bin/Debug/net8.0/QueenChessAssignment.deps.json
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/bin/Debug/net8.0/QueenChessAssignment.runtimeconfig.json
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/bin/Debug/net8.0/QueenChessAssignment.dll
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/bin/Debug/net8.0/QueenChessAssignment.pdb
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.AssemblyInfoInputs.cache
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.AssemblyInfo.cs
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.csproj.CoreCompileInputs.cache
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.dll
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/refint/QueenChessAssignment.dll
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.pdb
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/QueenChessAssignment.genruntimeconfig.cache
+/home/sigmoid/Desktop/Praksa/QueenChessAssignment/QueenChessAssignment/obj/Debug/net8.0/ref/QueenChessAssignment.dll
